@@ -1,0 +1,6 @@
+{
+  "name": "lif-ee-cards",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./" },
+  "routes": [ { "pattern": "lif.ee.cards/*", "zone_id": "90bc1e4d04de4e709a3f26ffa9e1a131" } ]
+}
